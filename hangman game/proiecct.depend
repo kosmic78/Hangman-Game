@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623139727 source:d:\c++\proiecct\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+	<time.h>
+	<random>
+	<vector>
+	<ctime>
+	<set>
+	<list>
+	<iterator>
+	<bits/stdc++.h>
+
