@@ -4,9 +4,11 @@ For making this game I worked with classes. For the game I used the class "Cuvan
 with rankings and searches game history for that name. The writing operator overloading is being used for writing into my ranking, at the end of the game (when the life variable reaches 0 value), the player's name, score and how many words he managed to guess. My third class named "Citire" is used for the reading part, where the player can introduce the whole word or letter by letter. When you reach 5 wrong guesses the game ends.
 # Menu
 ![Game menu](https://i.imgur.com/lh29MYb.png)
+
 Option 1 is for starting the game, 2 is for searching a name into the scoreboard, 3 is to see the full scoreboard, 4 is for a short tutorial and 0 is for quitting the application.
 # Making guesses in the game
 ![Guesses](https://i.imgur.com/4vEkzG9.png)
+
 By inserting one letter at a time or by inserting the whole word.
 # Searching a person in the scoreboard and see his history of plays.
 ![Searching](https://i.imgur.com/bUgxYOS.png)
